@@ -21,6 +21,7 @@ ZOOMA Annotation (uses EBI OLS per above)
 https://www.ebi.ac.uk/spot/zooma/docs/api
 
 # Terminology Servers
+FHIR based terminology resources including SNOMED CT-AU and HPO
 https://ontoserver.csiro.au/docs/6/api-fhir.html
 
 
