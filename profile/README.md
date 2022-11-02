@@ -10,6 +10,20 @@ Not all tools are able to be forked into GitHub (e.g. those in GitLab) so the ot
 Annotation tool + Phenopacket generator
 https://www.genecascade.org/sams-cgi/index.cgi
 
+# APIs (excludes Terminology Servers)
+Symptom Annotation Made Simple
+https://www.genecascade.org/sams-cgi/index.cgi#api
+
+EBI Ontology Lookup Service
+https://www.ebi.ac.uk/ols/docs/api
+
+ZOOMA Annotation (uses EBI OLS per above)
+https://www.ebi.ac.uk/spot/zooma/docs/api
+
+#Terminology Servers
+https://ontoserver.csiro.au/docs/6/api-fhir.html
+
+
 <!--
 
 **Here are some ideas to get you started:**
