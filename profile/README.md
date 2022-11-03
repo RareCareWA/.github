@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello welcome to the RareCare org!
+Welcome to the RareCare org!
 
 # Colombo Scholarship Students
 
