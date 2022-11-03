@@ -8,9 +8,12 @@ You can find tools to help you in the forked repos as well as project boards for
 
 Not all tools are able to be forked into GitHub (e.g. those in GitLab) so the other resources below may also be helpful...
 
-# other tools
-Annotation tool + Phenopacket generator
+# Annotation tools
+Sypmtom Annotation Made Simple (SAMS)
 https://www.genecascade.org/sams-cgi/index.cgi
+
+doc2hpo
+https://doc2hpo.wglab.org/index.jsp
 
 # APIs (excludes Terminology Servers)
 Symptom Annotation Made Simple
